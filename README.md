@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer building clean APIs and scalable systems — usually after dark 🌙</h3>
 
 <p align="center">
-  <img src="assets/banner.PNG" alt="Felipe May banner" />
+  <img src="assets/banner.png" alt="Felipe May banner" />
 </p>
 
 ---
